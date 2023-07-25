@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "THE BENDS",
+      "price": "900",
+      "thumbnail": "/images/product/1.jpg",
+      "artist": "RADIOHEAD",
+      "song": "20"
+    },
+    {
+      "id": 2,
+      "productName": "KID A",
+      "price": "1590",
+      "thumbnail": "/images/product/2.jpg",
+      "artist": "RADIOHEAD",
+      "song": "18"
+    },
+    {
+      "id": 3,
+      "productName": "Loveless",
+      "price": "1200",
+      "thumbnail": "/images/product/6.jpg",
+      "artist": "my bloody valentine",
+      "song": "11"
+    },
+    {
+      "id": 4,
+      "productName": "Dark side of the moon",
+      "price": "1400",
+      "thumbnail": "/images/product/4.jpg",
+      "artist": "Pink Floye",
+      "song": "12"
+    },
+    {
+      "id": 5,
+      "productName": "Post human survivor horror",
+      "price": "1180",
+      "thumbnail": "/images/product/3.jpg",
+      "artist": "Bring me the horizon",
+      "song": "12"
+    },
+    {
+      "id": 6,
+      "productName": "Notes on the conditional from",
+      "price": "1490",
+      "thumbnail": "/images/product/7.jpg",
+      "artist": "THE 1975",
+      "song": "22"
+    },
+    {
+      "thumbnail": "images\\product\\5.JPG",
+      "price": "1900",
+      "productName": "Delawere",
+      "artist": "Drop nineteen",
+      "song": "11",
+      "id": 7
+    }
+  ],
+  "orders": []
+}
